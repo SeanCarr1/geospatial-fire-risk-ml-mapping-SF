@@ -1,0 +1,4 @@
+.github
+Deliverables
+*.code-workspace
+venv
